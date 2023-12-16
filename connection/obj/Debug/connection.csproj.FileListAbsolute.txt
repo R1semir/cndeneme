@@ -1,0 +1,10 @@
+C:\Users\legen\source\repos\connection\connection\bin\Debug\connection.exe.config
+C:\Users\legen\source\repos\connection\connection\bin\Debug\connection.exe
+C:\Users\legen\source\repos\connection\connection\bin\Debug\connection.pdb
+C:\Users\legen\source\repos\connection\connection\obj\Debug\connection.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\connection\connection\obj\Debug\connection.Form1.resources
+C:\Users\legen\source\repos\connection\connection\obj\Debug\connection.Properties.Resources.resources
+C:\Users\legen\source\repos\connection\connection\obj\Debug\connection.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\connection\connection\obj\Debug\connection.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\connection\connection\obj\Debug\connection.exe
+C:\Users\legen\source\repos\connection\connection\obj\Debug\connection.pdb
